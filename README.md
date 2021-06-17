@@ -2,7 +2,7 @@
 
 ## Overview
 This service is a simple Node.js service with two endpoints (health and tweets). <br>
-Can run locally or with on Heroku with a Docker container.
+Can run locally with Heroku with a Docker container.
 
 
 ## API	
@@ -31,7 +31,8 @@ This endpoint return a health check of your service with the following data:
 	- run in terminal: docker build . -t "IMAGE_NAME"
 	- run in terminal: docker run -it -p 9000:3000 "IMAGE_NAME"
 	- The service is now listen in port 9000 - you can check it by postman or directly in url at http://localhost:9000/
-
-<a><img src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image"></a>
+<br>
+<br>
+<a><img src="https://www.s50static.com/images/newspics/17297.png" width="130" height="100"></a>
 
 Have fun!

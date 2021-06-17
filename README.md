@@ -30,7 +30,7 @@ This endpoint return a health check of your service with the following data:
 	- open terminal
 	- run in terminal: docker build . -t "IMAGE_NAME"
 	- run in terminal: docker run -it -p 9000:3000 "IMAGE_NAME"
-	- The service is now listen in port 9000 - you can check it by postman or directly in url at http://localhost:9000/
+	- The service is now listen in port 9000 - you can check it with <a href="https://www.postman.com/"> postman </a> or directly url at http://localhost:9000/
 <br>
 <br>
 <a><img src="https://www.s50static.com/images/newspics/17297.png" width="130" height="100"></a>

@@ -19,17 +19,17 @@ This endpoint return a health check of your service with the following data:
 	CPU usage of your machine (Percentage value)	
 
 ## Try it yourself
-- A link to my live API on Heroku:
+- Links to my live API on Heroku:
 	- <a href="https://autodesk-assignment.herokuapp.com/"> Home Page</a>
 	- <a href="https://autodesk-assignment.herokuapp.com/tweets?query=trump/"> Link to tweets (query: trump) </a>
 	- <a href="https://autodesk-assignment.herokuapp.com/health/"> Link to 'health' endpoint </a>
 		
 - Run it locally with docker container:
-	1. install docker on your computer
-	2. clone this repository
-	3. open terminal
-	4. run in terminal: docker build . -t "IMAGE_NAME"
-	5. run in terminal: docker run -it -p 9000:3000 IMAGE_NAME"
+	- install docker on your computer
+	- clone this repository
+	- open terminal
+	- run in terminal: docker build . -t "IMAGE_NAME"
+	- run in terminal: docker run -it -p 9000:3000 IMAGE_NAME"
 
 	The service is now listen in port 9000 
 	you can check it by postman or directly in url at http://localhost:9000/

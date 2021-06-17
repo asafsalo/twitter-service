@@ -29,11 +29,9 @@ This endpoint return a health check of your service with the following data:
 	- clone this repository
 	- open terminal
 	- run in terminal: docker build . -t "IMAGE_NAME"
-	- run in terminal: docker run -it -p 9000:3000 IMAGE_NAME"
+	- run in terminal: docker run -it -p 9000:3000 "IMAGE_NAME"
+	- The service is now listen in port 9000 - you can check it by postman or directly in url at http://localhost:9000/
 
-	The service is now listen in port 9000 
-	you can check it by postman or directly in url at http://localhost:9000/
-
-<a><img src="https://www.europanostra.org/wp-content/uploads/2017/09/2017-09-Twitter-logo.png"></a>
+<a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fsmall-twitter-icon-9.html&psig=AOvVaw0sKkYw3lMl_b3i93OwKt33&ust=1624017168406000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCL9MXNnvECFQAAAAAdAAAAABAD"></a>
 
 Have fun!

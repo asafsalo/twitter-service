@@ -1,7 +1,7 @@
 # Twitter Service 
 
 ## Overview
-This service is a simple Node.js service with two endpoints (health and tweets) .
+This service is a simple Node.js service with two endpoints (health and tweets). <br>
 Can run locally or with on Heroku with a Docker container.
 
 

@@ -13,10 +13,10 @@ This endpoint get a string and return the 10 latest tweets from Twitter API.
 
 2. GET /health <br>
 This endpoint return a health check of your service with the following data:
-	OS name - Darwin/Windows/etc.
-	Language/platform version - Your Node.js version for example
-	Memory usage of your machine (Percentage value)
-	CPU usage of your machine (Percentage value)	
+	- OS name - Darwin/Windows/etc.
+	- Language/platform version - Your Node.js version for example
+	- Memory usage of your machine (Percentage value)
+	- CPU usage of your machine (Percentage value)	
 
 ## Try it yourself
 - Links to my live API on Heroku:

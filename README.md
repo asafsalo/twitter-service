@@ -20,9 +20,9 @@ This endpoint return a health check of your service with the following data:
 
 ## Try it yourself
 - Links to my live API on Heroku:
-	- <a href="https://autodesk-assignment.herokuapp.com/"> Home Page</a>
-	- <a href="https://autodesk-assignment.herokuapp.com/tweets?query=trump/"> Link to tweets endpoint (query: trump) </a>
-	- <a href="https://autodesk-assignment.herokuapp.com/health/"> Link to 'health' endpoint </a>
+	- <a href="https://asaf-autodesk-assignment.herokuapp.com/"> Home Page</a>
+	- <a href="https://asaf-autodesk-assignment.herokuapp.com/tweets?query=trump/"> Link to tweets endpoint (query: trump) </a>
+	- <a href="https://asaf-autodesk-assignment.herokuapp.com/health/"> Link to 'health' endpoint </a>
 		
 - Run it locally with docker container:
 	- install docker on your computer

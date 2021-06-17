@@ -8,10 +8,10 @@ Can run locally or with on Heroku with a Docker container.
 ## API	
 The service include the following API:
 
-1. GET /tweets?query=YOUR_STRING
+1. GET /tweets?query=YOUR_STRING <br>
 This endpoint get a string and return the 10 latest tweets from Twitter API.
 
-2. GET /health
+2. GET /health <br>
 This endpoint return a health check of your service with the following data:
 	OS name - Darwin/Windows/etc.
 	Language/platform version - Your Node.js version for example
